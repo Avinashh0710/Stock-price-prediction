@@ -20,7 +20,13 @@ This project aims to predict the stock prices of Zomato using an LSTM (Long Shor
 - TensorFlow/Keras
 - Yahoo Finance API
 
-## Usage
+## output
+![image](https://github.com/user-attachments/assets/46442058-e8bf-4dcf-b602-d78e25cac589)
+![image](https://github.com/user-attachments/assets/216bb07c-e38c-45c0-be3e-ceacbc6960f6)
+![image](https://github.com/user-attachments/assets/f82258da-501a-4334-99a7-b9ec17ee8ef4)
+
+
+
 ### Stock Price Prediction
 1. Load historical stock data from Yahoo Finance.
 2. Compute moving averages.

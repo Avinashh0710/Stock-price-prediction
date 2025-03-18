@@ -25,6 +25,7 @@ This project aims to predict the stock prices of Zomato using an LSTM (Long Shor
 ![image](https://github.com/user-attachments/assets/3e662723-8978-40d6-b585-6f8aa462b532)
 ![image](https://github.com/user-attachments/assets/46442058-e8bf-4dcf-b602-d78e25cac589)
 ![image](https://github.com/user-attachments/assets/216bb07c-e38c-45c0-be3e-ceacbc6960f6)
+![image](https://github.com/user-attachments/assets/0ebf5ce6-e29e-486d-acf7-5a7436efb8f6)
 
 
 
